@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap");
 
+/* VARIABLES */
+
+:root {
+  --main-color: rgb(98, 89, 82);
+}
+
 /* GLOBAL & RESET */
 
 * {
