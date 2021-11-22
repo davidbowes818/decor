@@ -8,6 +8,7 @@
 
 #mainNavItems li {
   padding: 1rem 2rem;
+  cursor: pointer;
 }
 
 #mainNavItems li a {

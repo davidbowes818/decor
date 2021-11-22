@@ -16,7 +16,9 @@ const IndexPage = () => (
 
         <ul id={indexStyles.mainNavItems}>
           <li>
-            <Link to={"/"}>Home</Link>
+            <Link className="current" to={"/"}>
+              Home
+            </Link>
           </li>
           <li>
             <Link to={"/products"}>Products</Link>
