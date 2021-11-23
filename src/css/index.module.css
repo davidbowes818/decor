@@ -23,7 +23,7 @@
   position: absolute;
   top: 100%;
   left: 50%;
-  height: 100%;
+  height: 60%;
   width: 2px;
   background: #000;
   opacity: 0;
@@ -32,4 +32,19 @@
 
 #mainNavItems li:hover a:after {
   opacity: 100%;
+}
+
+#footerMain {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 3rem 0;
+}
+
+.footerLine {
+  margin: 1rem 0;
+}
+
+.footerNote {
+  font-size: 1.6rem;
 }
